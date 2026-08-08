@@ -1,9 +1,4 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
+Productivity app (reminder/to-do list) + period tracker
 1. Install dependencies
 
    ```bash
